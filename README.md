@@ -39,6 +39,3 @@ This project demonstrates how to create a **responsive navigation bar** using **
 ![React Navbar](https://github.com/user-attachments/assets/f5f86849-a9b5-41bd-9a0b-b2c54ee870c3)
 
 ---
-
-Let me know if you need any modifications! 🚀
-
